@@ -1,2 +1,3 @@
 # hello-world
-just for repository
+Hi, everyone! 
+I am Gentle from china!
